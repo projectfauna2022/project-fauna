@@ -1,0 +1,28 @@
+name shortcuts:
+M - main
+
+all file names:
+headerDB.php - database connection & html start
+index.php - start, before the login function
+loginM.php - main file for login function
+
+all css file name and div names:
+entireWCss.css
+-@font-face
+-*
+
+indexCss.css
+-container
+-element1
+-element2
+-element3
+-element4
+-element5
+-name1
+-name2
+-name3
+-name4
+-name5
+-index1
+-label1
+-button
